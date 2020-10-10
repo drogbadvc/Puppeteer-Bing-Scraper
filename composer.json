@@ -1,0 +1,8 @@
+{
+  "require": {
+    "symfony/dom-crawler": "^5.0",
+    "symfony/css-selector": "^5.0",
+    "ext-dom": "*",
+    "ext-libxml": "*"
+  }
+}
